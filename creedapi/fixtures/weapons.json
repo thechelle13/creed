@@ -1,0 +1,109 @@
+[
+    {
+        "model": "creedapi.weapon", 
+        "pk": 1, 
+        "fields": {
+            "label": "Two Handed Great Swords"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 2, 
+        "fields": {
+            "label": "Predator Bows"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 3, 
+        "fields": {
+            "label": "Two Handed Spears"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 4, 
+        "fields": {
+            "label": "Two Handed Dane Axes"
+        }
+    },
+    {
+        "model": "creedapi.weapon", 
+        "pk": 5, 
+        "fields": {
+            "label": "One Handed Swords"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 6, 
+        "fields": {
+            "label": "Hunter Bows"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 7, 
+        "fields": {
+            "label": "Light Bows"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 8, 
+        "fields": {
+            "label": "One Handed Bearded Axes"
+        }
+    },
+
+    {
+        "model": "creedapi.weapon", 
+        "pk": 9, 
+        "fields": {
+            "label": "Heavy Shields"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 10, 
+        "fields": {
+            "label": "One Handed Hammers"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 11, 
+        "fields": {
+            "label": "One Handed Daggers"
+        }
+    },
+
+    {
+        "model": "creedapi.weapon", 
+        "pk": 12, 
+        "fields": {
+            "label": "Light Shields"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 13, 
+        "fields": {
+            "label": "Bearded Axes"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 14, 
+        "fields": {
+            "label": "Sickles"
+        }
+    }, 
+    {
+        "model": "creedapi.weapon", 
+        "pk": 15, 
+        "fields": {
+            "label": "One Handed Flails"
+        }
+    }
+]

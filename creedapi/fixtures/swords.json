@@ -1,0 +1,196 @@
+[
+    {
+        "model": "creedapi.sword", 
+        "pk": 1, 
+        "fields": {
+            "label": "Doppelhander",
+            "game" : "1",
+            "weapon" : "1"
+        }
+    }, 
+    {
+        "model": "creedapi.sword", 
+        "pk": 2, 
+        "fields": {
+            "label": "Saint Georges Holy Sword",
+            "game" : "1",
+            "weapon" : "1"
+        }
+    }, 
+    {
+        "model": "creedapi.sword", 
+        "pk": 3, 
+        "fields": {
+            "label": "Carolingian Longsword",
+            "game" : "1",
+            "weapon" : "1"
+        }
+    }, 
+    {
+        "model": "creedapi.sword", 
+        "pk": 4, 
+        "fields": {
+            "label": "Excalibur",
+            "game" : "1",
+            "weapon" : "1"
+        }
+    },
+    {
+        "model": "creedapi.sword", 
+        "pk": 5, 
+        "fields": {
+            "label": "Onakara sword",
+            "game" : "1",
+            "weapon" : "1"
+        }
+    },
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 6, 
+        "fields": {
+            "label": "Magyar Hunting sword",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }, 
+    {
+        "model": "creedapi.sword", 
+        "pk": 7, 
+        "fields": {
+            "label": "Nodens Arc",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 8, 
+        "fields": {
+            "label": "Recurve sword",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    },
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 9, 
+        "fields": {
+            "label": "Needler",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    },
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 10, 
+        "fields": {
+            "label": "Bullseye",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 11, 
+        "fields": {
+            "label": "Longsword",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    },
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 12, 
+        "fields": {
+            "label": "The Mark of Sol",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    },
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 13, 
+        "fields": {
+            "label": "Petras Arc",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 14, 
+        "fields": {
+            "label": "Death Skald",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 15, 
+        "fields": {
+            "label": "Skadis Wrath",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 16, 
+        "fields": {
+            "label": "Hunbeorhts sword",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 17, 
+        "fields": {
+            "label": "Viper sword",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 18, 
+        "fields": {
+            "label": "Iron Cloud",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.sword", 
+        "pk": 19, 
+        "fields": {
+            "label": "Spartan sword",
+            "game" : "1",
+            "weapon" : "5"
+        }
+    }
+
+]

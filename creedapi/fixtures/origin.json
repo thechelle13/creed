@@ -1,0 +1,23 @@
+[
+    {
+        "model": "creedapi.origin", 
+        "pk": 1, 
+        "fields": {
+            "location": "Egypt"
+        }
+    }, 
+    {
+        "model": "creedapi.origin", 
+        "pk": 2, 
+        "fields": {
+            "location": "Valley Of The Kings"
+        }
+    }, 
+    {
+        "model": "creedapi.origin", 
+        "pk": 3, 
+        "fields": {
+            "location": "Sinai"
+        }
+    }
+]

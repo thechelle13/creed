@@ -1,0 +1,23 @@
+[
+    {
+        "model": "creedapi.game", 
+        "pk": 1, 
+        "fields": {
+            "label": "Valhalla"
+        }
+    }, 
+    {
+        "model": "creedapi.game", 
+        "pk": 2, 
+        "fields": {
+            "label": "Origins"
+        }
+    }, 
+    {
+        "model": "creedapi.game", 
+        "pk": 3, 
+        "fields": {
+            "label": "Odyssey"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "model": "creedapi.dagger", 
+        "pk": 1, 
+        "fields": {
+            "label": "Yngling Seax",
+            "game" : "1",
+            "weapon" : "11"
+        }
+    }, 
+    {
+        "model": "creedapi.dagger", 
+        "pk": 2, 
+        "fields": {
+            "label": "Hundtoth",
+            "game" : "1",
+            "weapon" : "11"
+        }
+    }, 
+    {
+        "model": "creedapi.dagger", 
+        "pk": 3, 
+        "fields": {
+            "label": "Suttungrs Claw",
+            "game" : "1",
+            "weapon" : "11"
+        }
+    }, 
+    {
+        "model": "creedapi.dagger", 
+        "pk": 4, 
+        "fields": {
+            "label": "Kopis",
+            "game" : "1",
+            "weapon" : "11"
+        }
+    }, 
+    {
+        "model": "creedapi.dagger", 
+        "pk": 5, 
+        "fields": {
+            "label": "Modraniht Ceremonial Seax",
+            "game" : "1",
+            "weapon" : "11"
+        }
+    }, 
+    {
+        "model": "creedapi.dagger", 
+        "pk": 5, 
+        "fields": {
+            "label": "Drengilgr",
+            "game" : "1",
+            "weapon" : "11"
+        }
+    }
+]

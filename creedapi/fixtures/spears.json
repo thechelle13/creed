@@ -1,0 +1,47 @@
+[
+    {
+        "model": "creedapi.spear", 
+        "pk": 1, 
+        "fields": {
+            "label": "Fafnirs Fang",
+            "game" : "1", 
+            "weapon" : "3"
+        }
+    }, 
+    {
+        "model": "creedapi.spear", 
+        "pk": 2, 
+        "fields": {
+            "label": "Fyrd Spear",
+            "game" : "1",
+            "weapon" : "3"
+        }
+    }, 
+    {
+        "model": "creedapi.spear", 
+        "pk": 3, 
+        "fields": {
+            "label": "Cadfarch Spear",
+            "game" : "1",
+            "weapon" : "3"
+        }
+    }, 
+    {
+        "model": "creedapi.spear", 
+        "pk": 4, 
+        "fields": {
+            "label": "Anentaks Spear",
+            "game" : "1",
+            "weapon" : "3"
+        }
+    }, 
+    {
+        "model": "creedapi.spear", 
+        "pk": 5, 
+        "fields": {
+            "label": "Gungnir",
+            "game" : "1",
+            "weapon" : "3"
+        }
+    }
+]

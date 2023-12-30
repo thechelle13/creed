@@ -1,0 +1,58 @@
+[
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 1, 
+        "fields": {
+            "location": "England"
+        }
+    }, 
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 2, 
+        "fields": {
+            "location": "Ireland"
+        }
+    }, 
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 3, 
+        "fields": {
+            "location": "Vinland"
+        }
+    }, 
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 4, 
+        "fields": {
+            "location": "Francia"
+        }
+    },
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 5, 
+        "fields": {
+            "location": "Norway"
+        }
+    }, 
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 6, 
+        "fields": {
+            "location": "Asgard"
+        }
+    }, 
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 7, 
+        "fields": {
+            "location": "Jotunheim"
+        }
+    }, 
+    {
+        "model": "creedapi.valhalla", 
+        "pk": 8, 
+        "fields": {
+            "location": "River Raids"
+        }
+    }
+]
