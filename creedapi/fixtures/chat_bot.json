@@ -1,0 +1,16 @@
+[
+    {
+      "model": "creedapi.chatbot",
+      "pk": 1,
+      "fields": {
+        "content": "Hello, welcome to the chat!"
+      }
+    },
+    {
+      "model": "creedapi.chatbot",
+      "pk": 2,
+      "fields": {
+        "content": "This is a sample message."
+      }
+    }
+  ]

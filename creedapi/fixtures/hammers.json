@@ -1,0 +1,38 @@
+[
+    {
+        "model": "creedapi.hammer", 
+        "pk": 1, 
+        "fields": {
+            "label": "War Hammer",
+            "game" : "1",
+            "weapon" : "10"
+        }
+    }, 
+    {
+        "model": "creedapi.hammer", 
+        "pk": 2, 
+        "fields": {
+            "label": "Blacksmiths Hammer",
+            "game" : "1",
+            "weapon" : "10"
+        }
+    }, 
+    {
+        "model": "creedapi.hammer", 
+        "pk": 3, 
+        "fields": {
+            "label": "Ohkwari Club",
+            "game" : "1",
+            "weapon" : "10"
+        }
+    }, 
+    {
+        "model": "creedapi.hammer", 
+        "pk": 4, 
+        "fields": {
+            "label": "Mjolnir",
+            "game" : "1",
+            "weapon" : "10"
+        }
+    }
+]

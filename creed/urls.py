@@ -15,8 +15,29 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import include, path
+from rest_framework.routers import DefaultRouter
+from creedapi.views import (
+    WeaponViewSet,
+    UserViewSet,
+    GameViewSet,
+    CharacterViewSet,
+)
+
+router = DefaultRouter(trailing_slash=False)
+router.register(r"games", GameViewSet, basename="games")
+router.register(r"weapons", WeaponViewSet, basename="weapons")
+router.register(r"characters", CharacterViewSet, basename="characters")
+router.register(r"users", UserViewSet, basename="users")
+router.register(r"users/creedusers", UserViewSet, basename="creedusers")
+
+
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path("", include(router.urls)),
+    path("login", UserViewSet.as_view({"post": "user_login"}), name="login"),
+    path(
+        "register", UserViewSet.as_view({"post": "register_account"}), name="register"
+    ),
 ]
+

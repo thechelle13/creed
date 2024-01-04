@@ -1,0 +1,100 @@
+[
+    {
+        "model": "creedapi.axe", 
+        "pk": 1, 
+        "fields": {
+            "label": "Raider Axe",
+            "game" : "1",
+            "weapon" : "8"
+        }
+    }, 
+    {
+        "model": "creedapi.axe", 
+        "pk": 2, 
+        "fields": {
+            "label": "Varins Axe",
+            "game" : "1",
+            "weapon" : "8"
+        }
+    }, 
+    {
+        "model": "creedapi.axe", 
+        "pk": 3, 
+        "fields": {
+            "label": "Housecarls Axe",
+            "game" : "1",
+            "weapon" : "8"
+        }
+    }, 
+    {
+        "model": "creedapi.axe", 
+        "pk": 4, 
+        "fields": {
+            "label": "Fyrd Axe",
+            "game" : "1",
+            "weapon" : "8"
+        }
+    }, 
+
+    {
+        "model": "creedapi.axe", 
+        "pk": 5, 
+        "fields": {
+            "label": "Bone Biter",
+            "game" : "1",
+            "weapon" : "4"
+        }
+    }, 
+    {
+        "model": "creedapi.axe", 
+        "pk": 6, 
+        "fields": {
+            "label": "Lagerthas Axe",
+            "game" : "1",
+            "weapon" : "4"
+        }
+    },
+    {
+        "model": "creedapi.axe", 
+        "pk": 7, 
+        "fields": {
+            "label": "Sepulcher Axe",
+            "game" : "1",
+            "weapon" : "4"
+        }
+    }, 
+    {
+        "model": "creedapi.axe", 
+        "pk": 8, 
+        "fields": {
+            "label": "Hemmings Axe",
+            "game" : "1",
+            "weapon" : "4"
+        }
+    }, {
+        "model": "creedapi.axe", 
+        "pk": 9, 
+        "fields": {
+            "label": "Aellas Bardiche",
+            "game" : "1",
+            "weapon" : "4"
+        }
+    }, 
+    {
+        "model": "creedapi.axe", 
+        "pk": 10, 
+        "fields": {
+            "label": "Vordrs Bite",
+            "game" : "1",
+            "weapon" : "4"
+        }
+    }, {
+        "model": "creedapi.axe", 
+        "pk": 11, 
+        "fields": {
+            "label": "Battle Sparth",
+            "game" : "1",
+            "weapon" : "4"
+        }
+    }
+]

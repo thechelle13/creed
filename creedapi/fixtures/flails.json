@@ -1,0 +1,29 @@
+[
+    {
+        "model": "creedapi.flail", 
+        "pk": 1, 
+        "fields": {
+            "label": "Iron Star",
+            "game" : "1",
+            "weapon" : "15"
+        }
+    }, 
+    {
+        "model": "creedapi.flail", 
+        "pk": 2, 
+        "fields": {
+            "label": "Spinning Death",
+            "game" : "1",
+            "weapon" : "15"
+        }
+    }, 
+    {
+        "model": "creedapi.flail", 
+        "pk": 3, 
+        "fields": {
+            "label": "Soldiers Flail",
+            "game" : "1",
+            "weapon" : "15"
+        }
+    }
+]

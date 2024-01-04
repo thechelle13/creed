@@ -1,0 +1,195 @@
+[
+    {
+        "model": "creedapi.bow", 
+        "pk": 1, 
+        "fields": {
+            "label": "Hunnish Bow",
+            "game" : "1",
+            "weapon" : "6"
+        }
+    }, 
+    {
+        "model": "creedapi.bow", 
+        "pk": 2, 
+        "fields": {
+            "label": "Death Speaker",
+            "game" : "1",
+            "weapon" : "6"
+        }
+    }, 
+    {
+        "model": "creedapi.bow", 
+        "pk": 3, 
+        "fields": {
+            "label": "Sagittarius Bow",
+            "game" : "1",
+            "weapon" : "6"
+        }
+    }, 
+    {
+        "model": "creedapi.bow", 
+        "pk": 4, 
+        "fields": {
+            "label": "Arc of Elan",
+            "game" : "1",
+            "weapon" : "6"
+        }
+    },
+    {
+        "model": "creedapi.bow", 
+        "pk": 5, 
+        "fields": {
+            "label": "Onakara Bow",
+            "game" : "1",
+            "weapon" : "6"
+        }
+    },
+    {
+        "model": "creedapi.bow", 
+        "pk": 6, 
+        "fields": {
+            "label": "Magyar Hunting Bow",
+            "game" : "1",
+            "weapon" : "6"
+        }
+    }, 
+    {
+        "model": "creedapi.bow", 
+        "pk": 7, 
+        "fields": {
+            "label": "Nodens Arc",
+            "game" : "1",
+            "weapon" : "6"
+        }
+    }
+
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 8, 
+        "fields": {
+            "label": "Recurve Bow",
+            "game" : "1",
+            "weapon" : "2"
+        }
+    },
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 9, 
+        "fields": {
+            "label": "Needler",
+            "game" : "1",
+            "weapon" : "2"
+        }
+    },
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 10, 
+        "fields": {
+            "label": "Bullseye",
+            "game" : "1",
+            "weapon" : "2"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 11, 
+        "fields": {
+            "label": "Longbow",
+            "game" : "1",
+            "weapon" : "2"
+        }
+    },
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 12, 
+        "fields": {
+            "label": "The Mark of Sol",
+            "game" : "1",
+            "weapon" : "2"
+        }
+    },
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 13, 
+        "fields": {
+            "label": "Petras Arc",
+            "game" : "1",
+            "weapon" : "2"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 14, 
+        "fields": {
+            "label": "Death Skald",
+            "game" : "1",
+            "weapon" : "7"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 15, 
+        "fields": {
+            "label": "Skadis Wrath",
+            "game" : "1",
+            "weapon" : "7"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 16, 
+        "fields": {
+            "label": "Hunbeorhts Bow",
+            "game" : "1",
+            "weapon" : "7"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 17, 
+        "fields": {
+            "label": "Viper Bow",
+            "game" : "1",
+            "weapon" : "7"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 18, 
+        "fields": {
+            "label": "Iron Cloud",
+            "game" : "1",
+            "weapon" : "7"
+        }
+    }
+    ,
+
+    {
+        "model": "creedapi.bow", 
+        "pk": 19, 
+        "fields": {
+            "label": "Spartan Bow",
+            "game" : "1",
+            "weapon" : "7"
+        }
+    }
+
+]
